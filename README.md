@@ -4,7 +4,7 @@ Welcome to my GitHub repository, where I document my exciting journey in Web Des
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/24721544-906f-4b07-8372-80abfb95101a" width="600" height="auto" />
+    <img src="https://github.com/user-attachments/assets/24721544-906f-4b07-8372-80abfb95101a" width="400" height="auto" />
 </p>
 
 
