@@ -102,5 +102,5 @@ This repository contains:
 I will update this repository regularly with tasks, projects, and tips. Follow along, and feel free to contribute or share your feedback!
 
 ---
-
-
+![nti_banner](https://github.com/user-attachments/assets/5fd27c5b-f321-49eb-8e09-2cb59df6a58d)
+<h2 align="center">National Telecommunication Institute (NTI)</h2>
