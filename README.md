@@ -76,25 +76,24 @@ This repository contains:
 
 ## Repository Structure
 
-```
-├── README.md
-├── Part1_Web_Design/
-│   ├── HTML/
-│   ├── CSS/
-│   ├── Bootstrap/
-│   ├── JavaScript/
-├── Part2_Freelancing/
-│   ├── Portfolio/
-│   ├── Proposals/
-│   ├── Freelance_Tips.md
-├── Projects/
-│   ├── Project1/
-│   ├── Project2/
-├── Resources/
-│   ├── Books.md
-│   ├── Useful_Links.md
-```
+## Repository Structure
 
+- [README.md](README.md)
+- [Part1_Web_Design/](Part1_Web_Design/)
+  - [HTML/](Part1_Web_Design/HTML/)
+  - [CSS/](Part1_Web_Design/CSS/)
+  - [Bootstrap/](Part1_Web_Design/Bootstrap/)
+  - [JavaScript/](Part1_Web_Design/JavaScript/)
+- [Part2_Freelancing/](Part2_Freelancing/)
+  - [Portfolio/](Part2_Freelancing/Portfolio/)
+  - [Proposals/](Part2_Freelancing/Proposals/)
+  - [Freelance_Tips.md](Part2_Freelancing/Freelance_Tips.md)
+- [Projects/](Projects/)
+  - [Project1/](Projects/Project1/)
+  - [Project2/](Projects/Project2/)
+- [Resources/](Resources/)
+  - [Books.md](Resources/Books.md)
+  - [Useful_Links.md](Resources/Useful_Links.md)
 ---
 
 ## Stay Tuned!
