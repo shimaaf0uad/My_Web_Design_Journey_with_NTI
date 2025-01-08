@@ -4,8 +4,8 @@ Welcome to my GitHub repository, where I document my exciting journey in Web Des
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04fd3025-0046-42af-8bc4-d05d65451f52" width="600" height="auto" style="display:inline-block;"/>
-  <img src="https://github.com/user-attachments/assets/a1d0e829-79d9-4008-98a0-5755d84941b2" width="600" height="auto" style="display:inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/04fd3025-0046-42af-8bc4-d05d65451f52" width="600" height="500" style="display:inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/a1d0e829-79d9-4008-98a0-5755d84941b2" width="600" height="500" style="display:inline-block;"/>
 </p>
 
 
